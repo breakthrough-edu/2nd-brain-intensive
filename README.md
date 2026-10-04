@@ -51,7 +51,7 @@
 ### 加入 Breakthrough Circle, 拿到的是这三样
 
 - **Included · 2nd Brain Intensive · 2 days** · 加入当月那两天, 现场动手, 十步从这里起步 (第三节)。
-- **Bonus skill · Brand Strategy Breakthrough** · 十年品牌策略的经验与方法论, 以前是开班的, 现在整套蒸馏成一个 skill 直接给他。
+- **Bonus skill · Brand Strategy Breakthrough** · 十几年品牌策略的经验与方法论, 以前是开班的, 现在整套蒸馏成一个 skill 直接给他。
 - **Member · Build Day · 1 full day per month** · 不是赠品, 是 membership 本身的一部分。And more is on the way.
 
 ### 加入之后, 明写的三件 (判断的时候连着看)
@@ -225,7 +225,7 @@ Breakthrough 是一群 builder: 不是讲的人, 是做的人。今天你卡住�
 ### Keep growing · 持续成长
 
 **Step 09 · AI agents that deliver your product** · Your expertise, delivered to clients by agents. · AI agents
-从优化内部转到优化他卖的东西: 把他的专业和方法论蒸馏成 agent, 直接交付给客户或帮他交付。第一节那支 Bonus skill 就是这一步长什么样的例子: 十年品牌策略的方法论, 以前开班教, 现在整套变成一个 skill。
+从优化内部转到优化他卖的东西: 把他的专业和方法论蒸馏成 agent, 直接交付给客户或帮他交付。第一节那支 Bonus skill 就是这一步长什么样的例子: 十几年品牌策略的方法论, 以前开班教, 现在整套变成一个 skill。
 那两天在这一步做的, 是他自己生意的 leads 与广告预算拆解, 加一次拿真实数据做的诊断; 以及一篇从选题到定稿都在现场完成、读起来是他在讲话的 content。
 `凭什么不一样` 两件事都往下追一层。**数字难看, 问题未必出在广告**: 要分得出是 business model 本身有漏洞、sales 接不住, 还是 fulfillment 拖住了后面, 找错那一层就会一直把钱加在错的地方。内容那边同理, **好内容不是 prompt 出来的, 是一篇一篇迭代出来的**: 发出去真实拿到的反应要有地方留, 不然下一篇还是重新赌一次。
 `两天结束时` **起个头**: 在手的是那份诊断、那篇 content, 以及装进他 2nd Brain 的 Brand Strategy Breakthrough 那支 skill; 把他自己的专业蒸馏成 agent 交给客户, 是之后的事。
@@ -243,8 +243,8 @@ Agent 自己判断, 从每次交付的结果学回来, 下一次做得更好。�
 | **F01 · Understand the New AI Operating Model** | Before step 1 | 2nd Brain、Personal OS、Company OS 各是什么, 为什么顺序不能反; Claude Code 101 (下面那块); 每一次开工它读了什么; skill 到底是什么 |
 | **F02 · Build Your Second Brain** | Step 1 | 装起来、认得它的房间与规矩、知道哪一种东西住哪里、把第一批真实的资料搬进去 |
 | **F03 · Turn It into Your Personal OS** | Steps 2–3 | Command Base 每天怎么开工收工、一次一件事怎么派、他的 AI 助理、第一支 skill、从 skill 到 automation |
-| **F04 · Expand Your Personal Capabilities** | Toolkit · for every step | PDF 变 markdown、一组各说各话的 AI 顾问、SOP、会议记录、方法与 playbook |
-| **F05 · Cross into Your Company OS** | Steps 4–9 | 从个人跨到公司的那道桥、知识库、数据中心、dashboard、第一只 agent、团队协作、品牌策略、content、投放 |
+| **F04 · Expand What Your System Can Do** | Toolkit · for every step | PDF 变 markdown、一组各说各话的 AI 顾问、SOP、会议记录、方法与 playbook |
+| **F05 · Build Your Company OS** | Steps 4–9 | 从个人跨到公司的那道桥、知识库、数据中心、dashboard、第一只 agent、团队协作、品牌策略、content、投放 |
 
 Step 10 没有对应的小节, 不硬挂。
 
