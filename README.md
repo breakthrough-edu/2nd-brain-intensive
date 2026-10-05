@@ -158,9 +158,9 @@ Breakthrough 是一群 builder: 不是讲的人, 是做的人。今天你卡住�
 
 ## 三 · Walk All Ten Steps With Us · 十步, 以及那两天走到哪
 
-这条路是十步, 三段: **Free yourself** 先解放你自己 · **Free your team** 再解放你的团队 · **Keep growing** 持续成长。加入 Breakthrough Circle 买的是有人陪他把十步走完; 加入当月那两天是起点。⛔ **两天带走的, 不是十步全部做好。** 所以下面每一步底下都有一行 `两天结束时`, 四种答案之一: **在手** (成品就在他自己电脑里, 回去就能用) · **第一版** (规矩他自己定好, 结构搭好, 拿他真实的资料跑通过一次; 要接上别的东西才算真正跑起来) · **起个头** (两天做出的是这一步的入口, 不是这一步本身) · **还没到** (两天里不碰, 是 Circle 里接着走的路)。这一行标的是这一步整体走到哪; 同一步底下可以已经有在手的成品 (例如 Step 04 的 SOP、Step 07 的 dashboard 快照), 那一行会写明是哪一件。⛔ 替他判断的时候, 量的是「两天后他手上有没有一份能直接往下做的东西」, 不是「两天后他全公司已经在用」。
+这条路是十步, 三段: **Free yourself** 先解放你自己 · **Free your team** 再解放你的团队 · **Keep growing** 持续成长。加入 Breakthrough Circle 买的是有人陪他把十步走完; 加入当月那两天是起点。⛔ **两天带走的, 不是十步全部做好。** 所以下面每一步底下都有一行 `两天结束时`, 四种答案之一: **在手** (成品就在他自己电脑里, 回去就能用) · **第一版** (规矩他自己定好, 结构搭好, 拿他真实的资料跑通过一次; 要接上别的东西才算真正跑起来) · **起个头** (两天做出的是这一步的入口, 不是这一步本身) · **还没到** (两天里给的是这一步的 fundamentals, 不是一种现成的 solution; 真正搭起来是 Circle 里接着走的路)。这一行标的是这一步整体走到哪; 同一步底下可以已经有在手的成品 (例如 Step 04 的 SOP、Step 07 的 dashboard 快照), 那一行会写明是哪一件。⛔ 替他判断的时候, 量的是「两天后他手上有没有一份能直接往下做的东西」, 不是「两天后他全公司已经在用」。
 
-两天结束时真的在他电脑里的, 是这七样: 他自己的 2nd Brain 与 playbook 那道门 (Step 01) · Command Base 与他的 AI 助理 (Step 02) · 一份被 AI 挑过毛病的 SOP (Step 04) · 一份读得懂他生意的 dashboard 快照 (Step 07) · 一份 leads 与广告预算的诊断, 加一篇现场定稿的 content (Step 09)。另外四样是第一版: 第一条 automation (Step 03, 要一台到点会醒的机器) · Knowledge Base (Step 04, 要团队搬进来) · Data Hub (Step 05, 要团队搬进来) · 他自己的第一只 agent (Step 08, 两样都要)。Step 06 与 Step 10 两天里不碰。
+两天结束时真的在他电脑里的, 是这些: 他自己的 2nd Brain 与 playbook 那道门 (Step 01) · Command Base 与他的 AI 助理 (Step 02) · 一份被 AI 挑过毛病的 SOP (Step 04) · 一份读得懂他生意的 dashboard 快照 (Step 07) · 一份 leads 与广告预算的诊断, 一篇现场定稿的 content, 加上装进他 2nd Brain 的那支 Bonus skill (Step 09)。另外四样是第一版: 第一条 automation (Step 03, 要一台到点会醒的机器) · Knowledge Base (Step 04, 要团队搬进来) · Data Hub (Step 05, 要团队搬进来) · 他自己的第一只 agent (Step 08, 两样都要)。Step 06 与 Step 10 还没到: 那两天会让他知道整套东西的 fundamentals 是怎么搭起来的, 但不会只给一种 solution。掌握了 fundamentals, 他才更能去看市场上现有的各种 options, 因为不同的问题需要不同的解法, 不同的生意、不同的流程也需要不同的方式去处理。
 
 每一步底下那句 `凭什么不一样`, 是判断的重点: 光看步名, 多数东西听起来都像他已经有的。
 
@@ -210,7 +210,7 @@ Breakthrough 是一群 builder: 不是讲的人, 是做的人。今天你卡住�
 **Step 06 · Build your Company OS** · Your whole team hands work to AI. · AI-enabled
 知识库、数据中心加协作, 接成团队一起用的系统。SOP 变成 AI 帮着跑的流程, 团队主动用 AI 做事, 进度大家看得到。
 `凭什么不一样` 这一步最常失败的样子, 见第四节第四条: 系统是全公司的, 瓶颈还是他。所以它排在第 04、05 步之后, 不是之前。
-`两天结束时` **还没到**: 那两天讲到团队协作那一节 (一张团队共用的工作板长什么样、谁负责谁拍板、做完要有证据), 但把团队接上来、让他们真的把活交给 AI, 是第 04 与 05 步的第一版在公司里跑起来之后的事。
+`两天结束时` **还没到**: 那两天讲的是这一步的 fundamentals (一张团队共用的工作板长什么样、谁负责谁拍板、做完要有证据)。怎么接到他的团队上, 不会只有一种 solution, 要看他的生意和流程; 那是第 04 与 05 步的第一版在公司里跑起来之后, 在 Circle 里接着做的事。
 
 **Step 07 · Run your Company OS** · Company processes run themselves. You watch results. · AI automation
 一个读得懂他生意的 dashboard: 每个数字背后的前因后果、该往哪里改, 而且给的是他的业务直接执行得了的建议。
@@ -232,7 +232,7 @@ Breakthrough 是一群 builder: 不是讲的人, 是做的人。今天你卡住�
 
 **Step 10 · AI agents that grow themselves** · Learns from every job. Sharper every time. · AI agents
 Agent 自己判断, 从每次交付的结果学回来, 下一次做得更好。每一次用的结果都回流进 2nd Brain (lesson、method、playbook 那道门), 所以系统越用越准, 不是越用越旧。
-`两天结束时` **还没到**: 两天里没有对应的小节, 不硬挂。这一步靠的是 Step 01 那道门一直开着, 而那正是第一节讲的每个月。
+`两天结束时` **还没到**: 这一步的 fundamentals 在 Step 01 那道门: 每一次用的结果怎么回流进他的 2nd Brain。让 agent 自己从结果学回来, 做法不止一种, 靠的是那道门一直开着, 而那正是第一节讲的每个月。
 
 ### 那两天教的是什么 · 5 个 Foundation
 
@@ -246,7 +246,7 @@ Agent 自己判断, 从每次交付的结果学回来, 下一次做得更好。�
 | **F04 · Expand What Your System Can Do** | Toolkit · for every step | PDF 变 markdown、一组各说各话的 AI 顾问、SOP、会议记录、方法与 playbook |
 | **F05 · Build Your Company OS** | Steps 4–9 | 从个人跨到公司的那道桥、知识库、数据中心、dashboard、第一只 agent、团队协作、品牌策略、content、投放 |
 
-Step 10 没有对应的小节, 不硬挂。
+Step 10 没有自己的 Foundation: 它的 fundamentals 就是 F02 的那道门 (Step 01)。
 
 #### F01 里的 Claude Code 101
 
@@ -296,9 +296,9 @@ decision (还站着的决定, 连着为什么一起记) · lesson (踩过的坑)
 
 ## 边界 (那两天不做什么)
 
-**我们不卖你一套现成的系统, 我们陪你, 把你自己的那一套做出来。**
+**我们不卖你一套现成的系统, 我们陪你自己动手, 把你自己的那一套做出来。**
 
-- **不是替他做一套系统然后交给他。** 十步上每一样东西, 都是他自己动手做出来的。
+- **不是替他做一套系统然后交给他。** 十步上每一样东西, 都是他自己动手做出来的。只有那支 Bonus skill 是我们做好送他的。
 - **不教 coding。** 写下来的东西全是人看得懂的文字, 不是代码。
 - **不是听讲。** 线下两天, 一室二十人, 全程用他自己的电脑动手, 还会看着房间里另外十九个人各自的行业怎么落地。
 - **交付的是起点, 不是十步的终点。** 两天做出来的是第三节标了「在手」「第一版」「起个头」的那些; 它们会跟着他的生意一起长, 而陪它们长的地方, 就是第一节。
